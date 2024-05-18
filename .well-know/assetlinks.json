@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.cesartovar.miscelaneos",
+      "sha256_cert_fingerprints":
+      ["A8:41:57:2C:5D:3A:6C:06:43:2B:40:42:79:C1:4F:FC:BF:4F:63:EC:36:1A:D5:61:6E:F3:C0:3E:46:1D:0E:FC"]
+    }
+  }]
